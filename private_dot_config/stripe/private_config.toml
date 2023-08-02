@@ -1,0 +1,12 @@
+color = ''
+[default]
+account_id = 'acct_1IRTV9DxH8UTEQpd'
+device_name = 'admin-hmasakinoMacBook-Pro.local'
+display_name = '事業構想オンライン'
+live_mode_api_key = 'rk_live_***********************************************************************************************LivC'
+live_mode_key_expires_at = '2023-07-17'
+live_mode_pub_key = 'pk_live_51IRTV9DxH8UTEQpd3bUy3klGTthvH1bWZgxQC1deJxEiM5VdRuzm8tYmCfrO9a8dPTqaq9dvCUt46WgLXpgahyLR00KypDcT1K'
+test_mode_api_key = 'rk_test_51IRTV9DxH8UTEQpdmsb3QSU01319OdESx7dbZNfnAiG4QCmHfkNeRY5PokWBR0giyGUONA6CYYxI11QcB1YKHeGA00T4pTS0rB'
+test_mode_key_expires_at = '2023-07-17'
+test_mode_pub_key = 'pk_test_51IRTV9DxH8UTEQpdcSd6XNAJpplrGUVVPCFW1DXsgtU5UVx2IK2vTE8f9EJFM7p7tICjfd9KV85iCeAO7dzxv1sC007dO74vkZ'
+
